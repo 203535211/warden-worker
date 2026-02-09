@@ -6,11 +6,11 @@
 
 本项目提供了一个可自托管的、兼容 Bitwarden 的服务器，可以免费部署到 Cloudflare Workers。它旨在实现低维护成本，让您“部署后即可高枕无忧”，无需担心服务器管理或后续费用。
 
-## Why another Bitwarden server?
+## 为什么还要建一个Bitwarden服务器？
 
-While projects like [Vaultwarden](https://github.com/dani-garcia/vaultwarden) provide excellent self-hosted solutions, they still require you to manage a server or VPS. This can be a hassle, and if you forget to pay for your server, you could lose access to your passwords.
+虽然像Vaultwarden这样的项目提供了优秀的自托管解决方案，但它们仍然需要您管理服务器或 VPS。这可能会很麻烦，而且如果您忘记支付服务器费用，您可能会丢失密码访问权限。
 
-Warden aims to solve this problem by leveraging the Cloudflare Workers ecosystem. By deploying Warden to a Cloudflare Worker and using Cloudflare D1 for storage, you can have a completely free, serverless, and low-maintenance Bitwarden server.
+Warden旨在利用Cloudflare Workers生态系统解决这个问题。通过将Warden部署到Cloudflare Worker并使用Cloudflare D1进行存储，您可以拥有一个完全免费、无服务器且维护成本低的Bitwarden服务器。
 
 ## Features
 
