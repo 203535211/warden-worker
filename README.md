@@ -1,7 +1,3 @@
-下面就是中文翻译版内容（Markdown 原样可直接复制使用）：
-
----
-
 # Warden：一个与 Bitwarden 兼容的 Cloudflare Workers 服务器
 
 [![Powered by Cloudflare](https://img.shields.io/badge/Powered%20by-Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
