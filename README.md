@@ -1,4 +1,4 @@
-# Warden: A Bitwarden-compatible server for Cloudflare Workers
+# Warden：一个与 Bitwarden 兼容的 Cloudflare Workers 服务器
 
 [![Powered by Cloudflare](https://img.shields.io/badge/Powered%20by-Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
