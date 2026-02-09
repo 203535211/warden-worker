@@ -12,16 +12,16 @@
 
 Warden旨在利用Cloudflare Workers生态系统解决这个问题。通过将Warden部署到Cloudflare Worker并使用Cloudflare D1进行存储，您可以拥有一个完全免费、无服务器且维护成本低的Bitwarden服务器。
 
-## Features
+## 特征
 
-* **Core Vault Functionality:** Create, read, update, and delete ciphers and folders.
-* **File Attachments:** Optional Cloudflare KV or R2 storage for attachments.
-* **TOTP Support:** Store and generate Time-based One-Time Passwords.
-* **Bitwarden Compatible:** Works with official Bitwarden clients.
-* **Free to Host:** Runs on Cloudflare's free tier.
-* **Low Maintenance:** Deploy it once and forget about it.
-* **Secure:** Your encrypted data lives in your Cloudflare D1 database.
-* **Easy to Deploy:** Get up and running in minutes with the Wrangler CLI.
+* 核心 Vault 功能：创建、读取、更新和删除密码和文件夹。
+文件附件：可选的 Cloudflare KV 或 R2 存储用于存放附件。
+TOTP 支持：存储和生成基于时间的一次性密码。
+兼容 Bitwarden：可与官方 Bitwarden 客户端配合使用。
+免费托管：使用 Cloudflare 的免费套餐。
+维护成本低：部署一次即可，无需后续操作。
+安全：您的加密数据存储在您的 Cloudflare D1 数据库中。
+易于部署：使用 Wrangler CLI，几分钟即可启动并运行。
 
 ### Attachments Support
 
