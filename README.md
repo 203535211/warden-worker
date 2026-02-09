@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Deploy to Cloudflare Workers](https://img.shields.io/badge/Deploy%20to-Cloudflare%20Workers-orange?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 
-This project provides a self-hosted, Bitwarden-compatible server that can be deployed to Cloudflare Workers for free. It's designed to be low-maintenance, allowing you to "deploy and forget" without worrying about server management or recurring costs.
+本项目提供了一个可自托管的、兼容 Bitwarden 的服务器，可以免费部署到 Cloudflare Workers。它旨在实现低维护成本，让您“部署后即可高枕无忧”，无需担心服务器管理或后续费用。
 
 ## Why another Bitwarden server?
 
